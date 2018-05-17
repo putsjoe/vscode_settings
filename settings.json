@@ -1,0 +1,28 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.wheelScrollSensitivity": -1,
+    "terminal.integrated.location": "right",
+    "editor.scrollBeyondLastLine": false,
+    "editor.minimap.maxColumn": 25,
+    "editor.glyphMargin": false,
+    "python.pythonPath": "/home/joe/.virtualenvs/cv-review/bin/python",
+    "editor.rulers": [80, 120],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        ".vscode": true,
+        "**/*,pyc": true
+    },
+    "workbench.editor.enablePreview": false,
+    "terminal.integrated.fontSize": 15,
+    "files.exclude": {
+        "**/*.pyc": true
+    },
+    "workbench.editor.labelFormat": "medium",
+    "window.zoomLevel": 0,
+    "editor.wordWrap": "on",
+
+}
